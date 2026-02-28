@@ -1,0 +1,23 @@
+{
+  "name": "playwright-qa-automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChinmayIITM/playwright-qa-automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChinmayIITM/playwright-qa-automation/issues"
+  },
+  "homepage": "https://github.com/ChinmayIITM/playwright-qa-automation#readme",
+  "description": "",
+  "dependencies": {
+    "playwright": "^1.58.2"
+  }
+}
