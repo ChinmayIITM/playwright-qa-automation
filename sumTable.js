@@ -21,4 +21,4 @@ const { chromium } = require('playwright');
   console.log("FINAL TOTAL SUM:", totalSum);
 
   await browser.close();
-})();
+})(); 
